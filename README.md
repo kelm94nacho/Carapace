@@ -214,4 +214,4 @@ Carapace is offered as a full free version, with all features and updates includ
 Take the next step in your graphic design journey and download **Carapace** today! Unlock your creativity with this powerful vanishing point tool.
 
 ---
-**Last updated:** 2026-09-16 21:13:20 UTC
+**Last updated:** 2026-09-17 00:10:07 UTC
